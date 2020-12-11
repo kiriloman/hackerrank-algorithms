@@ -1,3 +1,6 @@
 .gradle
 .idea
 out/
+build/
+META-INF/
+*.iml
